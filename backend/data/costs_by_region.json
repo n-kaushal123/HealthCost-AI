@@ -1,0 +1,53 @@
+{
+  "urban": {
+    "er": {
+      "consultation": { "min": 500, "max": 1500, "currency": "USD" },
+      "tests": { "min": 300, "max": 2000, "currency": "USD" },
+      "medicine": { "min": 50, "max": 200, "currency": "USD" }
+    },
+    "clinic": {
+      "consultation": { "min": 100, "max": 250, "currency": "USD" },
+      "tests": { "min": 50, "max": 300, "currency": "USD" },
+      "medicine": { "min": 20, "max": 100, "currency": "USD" }
+    },
+    "self_care": {
+      "consultation": { "min": 0, "max": 0, "currency": "USD" },
+      "tests": { "min": 0, "max": 0, "currency": "USD" },
+      "medicine": { "min": 10, "max": 50, "currency": "USD" }
+    }
+  },
+  "semi-urban": {
+    "er": {
+      "consultation": { "min": 300, "max": 1000, "currency": "USD" },
+      "tests": { "min": 200, "max": 1000, "currency": "USD" },
+      "medicine": { "min": 40, "max": 150, "currency": "USD" }
+    },
+    "clinic": {
+      "consultation": { "min": 80, "max": 180, "currency": "USD" },
+      "tests": { "min": 40, "max": 200, "currency": "USD" },
+      "medicine": { "min": 15, "max": 80, "currency": "USD" }
+    },
+    "self_care": {
+      "consultation": { "min": 0, "max": 0, "currency": "USD" },
+      "tests": { "min": 0, "max": 0, "currency": "USD" },
+      "medicine": { "min": 10, "max": 40, "currency": "USD" }
+    }
+  },
+  "rural": {
+    "er": {
+      "consultation": { "min": 200, "max": 600, "currency": "USD" },
+      "tests": { "min": 100, "max": 500, "currency": "USD" },
+      "medicine": { "min": 30, "max": 100, "currency": "USD" }
+    },
+    "clinic": {
+      "consultation": { "min": 50, "max": 120, "currency": "USD" },
+      "tests": { "min": 20, "max": 100, "currency": "USD" },
+      "medicine": { "min": 10, "max": 50, "currency": "USD" }
+    },
+    "self_care": {
+      "consultation": { "min": 0, "max": 0, "currency": "USD" },
+      "tests": { "min": 0, "max": 0, "currency": "USD" },
+      "medicine": { "min": 5, "max": 30, "currency": "USD" }
+    }
+  }
+}

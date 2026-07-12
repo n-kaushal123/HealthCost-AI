@@ -1,0 +1,23 @@
+{
+  "india": { "currency": "INR", "rate": 3.0 },
+  "japan": { "currency": "JPY", "rate": 30.0 },
+  "china": { "currency": "CNY", "rate": 1.5 },
+  "south korea": { "currency": "KRW", "rate": 150.0 },
+  "thailand": { "currency": "THB", "rate": 10.0 },
+  "nepal": { "currency": "NPR", "rate": 4.0 },
+  "united kingdom": { "currency": "GBP", "rate": 0.3 },
+  "germany": { "currency": "EUR", "rate": 0.4 },
+  "france": { "currency": "EUR", "rate": 0.4 },
+  "italy": { "currency": "EUR", "rate": 0.3 },
+  "spain": { "currency": "EUR", "rate": 0.3 },
+  "united states": { "currency": "USD", "rate": 1.0 },
+  "canada": { "currency": "CAD", "rate": 1.0 },
+  "mexico": { "currency": "MXN", "rate": 2.0 },
+  "brazil": { "currency": "BRL", "rate": 1.5 },
+  "argentina": { "currency": "ARS", "rate": 80.0 },
+  "south africa": { "currency": "ZAR", "rate": 3.0 },
+  "nigeria": { "currency": "NGN", "rate": 50.0 },
+  "kenya": { "currency": "KES", "rate": 10.0 },
+  "egypt": { "currency": "EGP", "rate": 5.0 },
+  "morocco": { "currency": "MAD", "rate": 2.0 }
+}

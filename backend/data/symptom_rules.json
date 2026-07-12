@@ -1,0 +1,40 @@
+{
+  "er": [
+    "chest pain",
+    "shortness of breath",
+    "unconscious",
+    "bleeding heavily",
+    "stroke",
+    "heart attack",
+    "choking",
+    "severe head injury",
+    "severe burns",
+    "severe abdominal pain"
+  ],
+  "clinic": [
+    "fever",
+    "cough",
+    "sprain",
+    "minor cut",
+    "allergic reaction",
+    "urinary pain",
+    "earache",
+    "rash",
+    "vomiting",
+    "diarrhea",
+    "dizziness",
+    "high blood pressure",
+    "asthma attack",
+    "infection",
+    "missed mentrual period"
+  ],
+  "self_care": [
+    "mild headache",
+    "runny nose",
+    "minor scrape",
+    "sore throat",
+    "fatigue",
+    "mild fever",
+    "minor burn"
+  ]
+}

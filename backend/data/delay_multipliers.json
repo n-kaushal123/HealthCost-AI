@@ -1,0 +1,12 @@
+{
+  "diabetes": {
+    "base_early_cost": 200,
+    "delay_multiplier_per_month": 1.15,
+    "explanation": "Delaying diabetes treatment can lead to complications like neuropathy or kidney issues, compounding costs rapidly."
+  },
+  "hypertension": {
+    "base_early_cost": 150,
+    "delay_multiplier_per_month": 1.10,
+    "explanation": "Unmanaged hypertension risks cardiovascular events, meaning future care could involve emergency or specialized treatments."
+  }
+}
