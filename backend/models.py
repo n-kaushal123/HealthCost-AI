@@ -41,14 +41,4 @@ class DelayImpactResponse(BaseModel):
     currency: str
     explanation: str
 
-class AskRequest(BaseModel):
-    message: str
-    symptoms: str
-    age: int
-    duration_days: int
-    region: str
-    condition_type: Optional[str] = None
-    months_delayed: Optional[int] = 0
 
-class AskResponse(BaseModel):
-    reply: str
