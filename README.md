@@ -61,3 +61,4 @@ graph LR
 2. You will see a clean, accessible interface with a non-dismissible medical disclaimer.
 3. **Emergency Flow**: Enter "chest pain" in the symptoms, age 50, duration 1. Select "Urban". Submit to see the ER urgency level and high cost estimates.
 4. **Clinic & Chronic Flow**: Enter "cough" in symptoms, age 45, duration 14. Select "Diabetes" as a chronic condition. Submit to see the Clinic urgency level, cost estimates, and the comparison showing how delaying treatment for diabetes increases costs.
+Watch full demo on YouTube:https://youtu.be/xT_6S1QmuHw
