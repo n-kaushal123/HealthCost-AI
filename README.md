@@ -9,6 +9,10 @@ HealthCost AI is a web application that helps users navigate health care options
 - **Backend**: Python, FastAPI, Pydantic (Local JSON stores for data)
 - **Frontend**: React, Vite, Plain CSS
 
+## Live Demo
+- **Frontend (Vercel)**: [https://frontend-roan-delta-44.vercel.app](https://frontend-roan-delta-44.vercel.app)
+- **Backend API (Railway)**: [https://healthcost-ai-production.up.railway.app](https://healthcost-ai-production.up.railway.app)
+
 ```mermaid
 graph LR
     User([User]) -->|Enters Symptoms & Info| Frontend(React App)
@@ -43,7 +47,7 @@ graph LR
 
 ### Frontend Setup
 
-1. Open a new terminal and navigate to the `fronted/frontend` folder.
+1. Open a new terminal and navigate to the `frontend` folder.
 2. Ensure you have Node.js installed.
 3. Install dependencies:
    ```bash
