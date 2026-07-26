@@ -42,5 +42,3 @@ class DelayImpactResponse(BaseModel):
     explanation: str
 
 
-class AskResponse(BaseModel):
-    reply: str
