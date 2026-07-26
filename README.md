@@ -63,4 +63,5 @@ graph LR
 4. **Clinic & Chronic Flow**: Enter "cough" in symptoms, age 45, duration 14. Select "Diabetes" as a chronic condition. Submit to see the Clinic urgency level, cost estimates, and the comparison showing how delaying treatment for diabetes increases costs.
    ## DEMO
    https://github.com/user-attachments/assets/abac9d32-49f6-4519-8acc-5474c7b2cf67
-Watch full demo on YouTube:https://youtu.be/xT_6S1QmuHw
+
+   Watch full demo on YouTube:https://youtu.be/xT_6S1QmuHw
