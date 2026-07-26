@@ -10,8 +10,8 @@ app = FastAPI(title="HealthCost AI", description="Smart Care & Cost Navigator AP
 # Setup CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"], # For hackathon, allow all
-    allow_credentials=True,
+    allow_origins=["*"],
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
