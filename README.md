@@ -9,9 +9,6 @@ HealthCost AI is a web application that helps users navigate health care options
 - **Backend**: Python, FastAPI, Pydantic (Local JSON stores for data)
 - **Frontend**: React, Vite, Plain CSS
 
-## Live Demo
-- **Frontend (Vercel)**: [https://frontend-roan-delta-44.vercel.app](https://frontend-roan-delta-44.vercel.app)
-- **Backend API (Railway)**: [https://healthcost-ai-production.up.railway.app](https://healthcost-ai-production.up.railway.app)
 
 ```mermaid
 graph LR
@@ -65,7 +62,11 @@ graph LR
 2. You will see a clean, accessible interface with a non-dismissible medical disclaimer.
 3. **Emergency Flow**: Enter "chest pain" in the symptoms, age 50, duration 1. Select "Urban". Submit to see the ER urgency level and high cost estimates.
 4. **Clinic & Chronic Flow**: Enter "cough" in symptoms, age 45, duration 14. Select "Diabetes" as a chronic condition. Submit to see the Clinic urgency level, cost estimates, and the comparison showing how delaying treatment for diabetes increases costs.
-   ## DEMO
+
+   ## Live Demo
+- **Frontend (Vercel)**: [https://frontend-roan-delta-44.vercel.app](https://frontend-roan-delta-44.vercel.app)
+- **Backend API (Railway)**: [https://healthcost-ai-production.up.railway.app](https://healthcost-ai-production.up.railway.app)
+
    https://github.com/user-attachments/assets/abac9d32-49f6-4519-8acc-5474c7b2cf67
 
    Watch full demo on YouTube:https://youtu.be/xT_6S1QmuHw
